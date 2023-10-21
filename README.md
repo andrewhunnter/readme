@@ -10,5 +10,5 @@
 - 🤳 actively *actively* parts of my life online
 
 ### where can you find more about me?
-- active posting [drewdii](x.com/drewdii) on x
+- active posting [drewdii](https://x.com/drewdii) on x
 
