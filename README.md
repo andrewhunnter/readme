@@ -5,10 +5,10 @@
 - Major: **Computer Science**
 - Minor: *Innovation*
 
-
+### free time?
 - 🔭 I’m currently working on: an **open source** tutorial stack
 - 🤳 actively *actively* parts of my life online
 
 ### where can you find more about me?
-x.com/drewdii
+- active posting [x.com/drewdii]
 
