@@ -6,6 +6,6 @@
 - Minor: *Innovation*
 
 ### free time?
-- 🔭 I’m currently working on: an **open source** tutorial stack
-- 🤳 actively *actively* parts of my life online ([drewdii](https://x.com/drewdii))
+- 🔭 exploring new internet frontiers
+- 🤳 wanna be digital artist
 
