@@ -2,7 +2,7 @@
 
 ### what's up
 > Attending: Universitiy of Florida
-- Major: **Computer Science**
+- Major: **Information Systems**
 - Minor: *Innovation*
 
 ### free time?
