@@ -6,6 +6,6 @@
 - Minor: *Innovation*
 
 ### free time?
-- 🔭 exploring new internet frontiers
-- 🤳 wanna be digital artist
+- 🔭 learning about tech, finance, and chilling
+- 🤳 want to break into UX/UI within those fields
 
