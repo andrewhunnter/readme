@@ -5,7 +5,8 @@
 - Major: **Information Systems**
 - Minor: *Innovation*
 
-### free time?
-- 🔭 learning about tech, finance, and chilling
-- 🤳 want to break into UX/UI within those fields
+### about me
+- 🔭 always learning about the web
+- 🤳 helping others learn to build and ship software
+- 💻 full-stack: exploring react, nextjs, laravel, and django
 
