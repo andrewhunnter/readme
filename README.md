@@ -7,6 +7,6 @@
 
 ### about me
 - 🔭 always learning about web and mobile applications
-- 🤳 helping others learn to build and ship software
+- 🤳 helping others learn build and ship software
 - 💻 full-stack: exploring react, react-native, nextjs, and django
 
